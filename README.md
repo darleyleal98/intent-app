@@ -9,7 +9,7 @@
 
 <p>
   É feita uma verificação caso o usuário não digite um valor ou caso esse valor seja menor que dois caracteres
-  usei o "Toast" para notificar e pedir para inserir informalções caso tudo esteja correto, será apresentado o seu nome na tela principal e uma saudação:
+  usei o "Toast" para notificar e pedir para inserir informações caso tudo esteja correto, será apresentado o seu nome na tela principal e uma saudação:
 </p>
 
 <img src="https://github.com/darleyleal98/intent-app/assets/132721098/405f21e7-5644-415e-bca7-3595dcaeb23a"> </img>
